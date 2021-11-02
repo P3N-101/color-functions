@@ -7,11 +7,11 @@ Functions that calculate the contrast between two colors and simulate colors for
 
 The following image shows a sample implementation of Color Functions component to create a color contrast checker when added to Power App:
 
-![Contrast Checker](./assets/ContrastChecker.PNG)
+![Contrast Checker](./assets/ContrastChecker.png)
 
 The new Color Blind Color Checker page converts a color to simulate different types of color blindness allowing you to see what your users see
 
-![Color Blind Color Checker](./assets/color-blind-color-checker.PNG)
+![Color Blind Color Checker](./assets/color-blind-color-checker.png)
 
 Example Accessibility Checker dashboard using the color-functions:
 ![Color Accessibility Checker Dashboard](./assets/color-accesibility-checker-dashboard.png)
